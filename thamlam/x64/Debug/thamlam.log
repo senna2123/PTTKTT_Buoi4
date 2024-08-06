@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  thamlam.cpp
+D:\PTTKTT\kienbinh\thamlam\thamlam\thamlam.cpp(19,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PTTKTT\kienbinh\thamlam\thamlam\thamlam.cpp(32,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PTTKTT\kienbinh\thamlam\thamlam\thamlam.cpp(34,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PTTKTT\kienbinh\thamlam\thamlam\thamlam.cpp(76,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PTTKTT\kienbinh\thamlam\thamlam\thamlam.cpp(96,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PTTKTT\kienbinh\thamlam\thamlam\thamlam.cpp(98,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  thamlam.vcxproj -> D:\PTTKTT\kienbinh\thamlam\x64\Debug\thamlam.exe
